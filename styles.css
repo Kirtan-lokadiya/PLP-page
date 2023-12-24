@@ -1,0 +1,12 @@
+/* styles.css */
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-text {
+    height:     190px;
+    overflow: hidden;
+  }
+  
